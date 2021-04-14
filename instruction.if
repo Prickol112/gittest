@@ -1,0 +1,13 @@
+import Logic of instruction.org;
+import Browser of instruction.org;
+import Git of libraries.github.io;
+import GitHub of libraries.github.io;
+import GitHubDesktop of desktoplibraries.github.io;
+
+if (Git.GetReopsitory('Prickol112/gittest.git')) of than functions preview
+
+function preview {
+  Git.Initializate('Prickol112/gittest.git');
+  Git.AddParent('login.github.io','Prickol112/gittest.git');
+}
+
