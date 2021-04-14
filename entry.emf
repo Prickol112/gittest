@@ -1,0 +1,4 @@
+// Edit entry file is more risk!
+
+MD.SETDIF('README.md');
+GIT.LOGIN('As','github.io','MainFile','README.md','Read-None');
